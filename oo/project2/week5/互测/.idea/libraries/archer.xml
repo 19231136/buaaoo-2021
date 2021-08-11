@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="archer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/archer/elevator-input-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archer/timable-output.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

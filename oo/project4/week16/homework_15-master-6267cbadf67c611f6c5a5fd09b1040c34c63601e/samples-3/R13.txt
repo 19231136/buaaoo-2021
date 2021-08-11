@@ -1,0 +1,5 @@
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Class1","_type":"UMLClass","_id":"AAAAAAF6KaAU68bl1TE="}
+{"_parent":"AAAAAAF6KaAU68bl1TE=","visibility":"public","name":"Attribute1","_type":"UMLAttribute","_id":"AAAAAAF6KaAocscOzG8=","type":"float"}
+{"_parent":"AAAAAAF6KaAU68bl1TE=","visibility":"public","name":"Attribute1","_type":"UMLAttribute","_id":"AAAAAAF6KaBFYccUOVY=","type":"int"}
+{"_parent":"AAAAAAF6KaAU68bl1TE=","visibility":"public","name":"Attribute1","_type":"UMLAttribute","_id":"AAAAAAF6KaBmsscbspY=","type":{"$ref":"AAAAAAF6KaAU68bl1TE="}}
+END_OF_MODEL

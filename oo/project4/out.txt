@@ -1,0 +1,194 @@
+Total class count is 43.
+Ok, associated classes of class "C1" are (C10, C4).
+Ok, top base class of class "C1" is C1.
+Ok, associated classes of class "C2" are (C20, C40, C42).
+Ok, top base class of class "C2" is C2.
+Ok, associated classes of class "C3" are (C10, C24, C39, C4, C42, C5).
+Ok, top base class of class "C3" is C1.
+Ok, associated classes of class "C4" are (C1, C10, C18, C24, C27, C31, C34, C35, C39, C4, C42, C5, C9).
+Ok, top base class of class "C4" is C1.
+Ok, associated classes of class "C5" are (C10, C3, C31, C4).
+Ok, top base class of class "C5" is C1.
+Ok, associated classes of class "C6" are (C10, C11, C24, C27, C39, C4, C42, C5, C7).
+Ok, top base class of class "C6" is C1.
+Ok, associated classes of class "C7" are (C13, C19, C20, C40, C42, C6).
+Ok, top base class of class "C7" is C2.
+Ok, associated classes of class "C8" are (C11, C22).
+Ok, top base class of class "C8" is C8.
+Ok, associated classes of class "C9" are (C10, C3, C31, C4).
+Ok, top base class of class "C9" is C1.
+Ok, associated classes of class "C10" are (C1, C11, C22, C27, C28).
+Ok, top base class of class "C10" is C8.
+Ok, associated classes of class "C11" are (C10, C3, C31, C4, C40, C6, C8).
+Ok, top base class of class "C11" is C1.
+Ok, associated classes of class "C12" are (C10, C19, C23, C3, C31, C4, C40, C6, C8).
+Ok, top base class of class "C12" is C1.
+Ok, associated classes of class "C13" are (C1, C10, C18, C19, C24, C27, C31, C34, C35, C39, C4, C40, C42, C5, C7, C9).
+Ok, top base class of class "C13" is C1.
+Ok, associated classes of class "C14" are (C10, C17, C19, C23, C3, C31, C34, C4, C40, C6, C8).
+Ok, top base class of class "C14" is C1.
+Ok, associated classes of class "C15" are (C10, C3, C31, C33, C34, C4, C40, C43, C6, C8).
+Ok, top base class of class "C15" is C1.
+Ok, associated classes of class "C16" are (C10, C39, C4, C42).
+Ok, top base class of class "C16" is C1.
+Ok, associated classes of class "C17" are (C11, C14, C22, C38, C41).
+Ok, top base class of class "C17" is C8.
+Ok, associated classes of class "C18" are (C1, C11, C22, C27, C28, C4).
+Ok, top base class of class "C18" is C8.
+Ok, associated classes of class "C19" are (C1, C11, C12, C13, C22, C27, C28, C7).
+Ok, top base class of class "C19" is C8.
+Ok, associated classes of class "C20" are (C1, C10, C18, C2, C24, C25, C27, C31, C34, C35, C39, C4, C42, C5, C9).
+Ok, top base class of class "C20" is C1.
+Ok, associated classes of class "C21" are (C10, C22, C3, C31, C36, C38, C4, C40, C6, C8).
+Ok, top base class of class "C21" is C1.
+Ok, associated classes of class "C22" are (C11, C21, C22, C24, C27, C41, C8).
+Ok, top base class of class "C22" is C8.
+Ok, associated classes of class "C23" are (C10, C12, C29, C3, C31, C4).
+Ok, top base class of class "C23" is C1.
+Ok, associated classes of class "C24" are (C20, C22, C3, C31, C40, C42).
+Ok, top base class of class "C24" is C2.
+Ok, associated classes of class "C25" are (C10, C20, C26, C3, C31, C38, C4, C43).
+Ok, top base class of class "C25" is C1.
+Ok, associated classes of class "C26" are (C13, C19, C20, C25, C40, C41, C42, C6).
+Ok, top base class of class "C26" is C2.
+Ok, associated classes of class "C27" are (C1, C10, C11, C12, C13, C22, C27, C28, C4, C6, C7).
+Ok, top base class of class "C27" is C8.
+Ok, associated classes of class "C28" are (C10, C19, C23, C3, C31, C36, C4, C40, C6, C8).
+Ok, top base class of class "C28" is C1.
+Ok, associated classes of class "C29" are (C10, C19, C23, C3, C31, C4, C40, C42, C6, C8).
+Ok, top base class of class "C29" is C1.
+Ok, associated classes of class "C30" are (C13, C19, C20, C40, C41, C42, C6).
+Ok, top base class of class "C30" is C2.
+Ok, associated classes of class "C31" are (C10, C20, C24, C34, C38, C39, C4, C42, C5).
+Ok, top base class of class "C31" is C1.
+Ok, associated classes of class "C32" are (C1, C10, C18, C2, C24, C25, C27, C31, C34, C35, C39, C4, C42, C5, C9).
+Ok, top base class of class "C32" is C1.
+Ok, associated classes of class "C33" are (C10, C15, C19, C23, C3, C31, C36, C4, C40, C6, C8).
+Ok, top base class of class "C33" is C1.
+Ok, associated classes of class "C34" are (C10, C14, C15, C31, C4).
+Ok, top base class of class "C34" is C1.
+Ok, associated classes of class "C35" are (C11, C14, C22, C32, C38, C4, C41).
+Ok, top base class of class "C35" is C8.
+Ok, associated classes of class "C36" are (C10, C21, C28, C3, C31, C4, C40).
+Ok, top base class of class "C36" is C1.
+Ok, associated classes of class "C37" are (C10, C14, C15, C31, C38, C39, C4).
+Ok, top base class of class "C37" is C1.
+Ok, associated classes of class "C38" are (C13, C17, C19, C20, C21, C25, C31, C37, C39, C40, C41, C42, C6).
+Ok, top base class of class "C38" is C2.
+Ok, associated classes of class "C39" are (C10, C16, C21, C28, C3, C31, C37, C38, C4, C40).
+Ok, top base class of class "C39" is C1.
+Ok, associated classes of class "C40" are (C10, C11, C13, C2, C24, C27, C36, C39, C4, C41, C42, C5, C7).
+Ok, top base class of class "C40" is C1.
+Ok, associated classes of class "C41" are (C10, C17, C19, C22, C23, C26, C3, C30, C31, C35, C4, C40, C42, C6, C8).
+Ok, top base class of class "C41" is C1.
+Ok, associated classes of class "C42" are (C1, C11, C16, C2, C22, C27, C28, C29, C3, C32).
+Ok, top base class of class "C42" is C8.
+Ok, associated classes of class "C43" are (C10, C15, C17, C19, C23, C25, C3, C31, C34, C4, C40, C6, C8).
+Ok, top base class of class "C43" is C1.
+Ok，state count of statemachine "StateMachine" is 16.
+Ok, triggers of transition from state "A" to state "B" in statemachine "StateMachine" are (q1).
+Ok, triggers of transition from state "A" to state "C" in statemachine "StateMachine" are (c).
+Ok, triggers of transition from state "A" to state "D" in statemachine "StateMachine" are (d1).
+Failed, transition from state "A" to state "E" in statemachine "StateMachine" not found.
+Failed, transition from state "A" to state "F" in statemachine "StateMachine" not found.
+Failed, transition from state "A" to state "G" in statemachine "StateMachine" not found.
+Failed, transition from state "A" to state "H" in statemachine "StateMachine" not found.
+Failed, transition from state "A" to state "I" in statemachine "StateMachine" not found.
+Failed, transition from state "A" to state "J" in statemachine "StateMachine" not found.
+Failed, transition from state "A" to state "K" in statemachine "StateMachine" not found.
+Failed, transition from state "A" to state "L" in statemachine "StateMachine" not found.
+Failed, transition from state "A" to state "M" in statemachine "StateMachine" not found.
+Failed, transition from state "A" to state "N" in statemachine "StateMachine" not found.
+Failed, transition from state "C" to state "B" in statemachine "StateMachine" not found.
+Failed, transition from state "D" to state "B" in statemachine "StateMachine" not found.
+Failed, transition from state "E" to state "B" in statemachine "StateMachine" not found.
+Failed, transition from state "F" to state "B" in statemachine "StateMachine" not found.
+Failed, transition from state "G" to state "B" in statemachine "StateMachine" not found.
+Failed, transition from state "H" to state "B" in statemachine "StateMachine" not found.
+Failed, transition from state "I" to state "B" in statemachine "StateMachine" not found.
+Failed, transition from state "J" to state "B" in statemachine "StateMachine" not found.
+Failed, transition from state "K" to state "B" in statemachine "StateMachine" not found.
+Failed, transition from state "L" to state "B" in statemachine "StateMachine" not found.
+Failed, transition from state "M" to state "B" in statemachine "StateMachine" not found.
+Failed, transition from state "N" to state "B" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "C" to state "D" in statemachine "StateMachine" are (q4).
+Failed, transition from state "C" to state "E" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "C" to state "F" in statemachine "StateMachine" are (f).
+Ok, triggers of transition from state "C" to state "G" in statemachine "StateMachine" are (g1).
+Failed, transition from state "C" to state "H" in statemachine "StateMachine" not found.
+Failed, transition from state "C" to state "I" in statemachine "StateMachine" not found.
+Failed, transition from state "C" to state "J" in statemachine "StateMachine" not found.
+Failed, transition from state "C" to state "K" in statemachine "StateMachine" not found.
+Failed, transition from state "C" to state "L" in statemachine "StateMachine" not found.
+Failed, transition from state "C" to state "M" in statemachine "StateMachine" not found.
+Failed, transition from state "C" to state "N" in statemachine "StateMachine" not found.
+Failed, transition from state "C" to state "C" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "D" to state "E" in statemachine "StateMachine" are (q5).
+Failed, transition from state "D" to state "F" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "D" to state "G" in statemachine "StateMachine" are (g2).
+Ok, triggers of transition from state "D" to state "H" in statemachine "StateMachine" are (h1).
+Failed, transition from state "D" to state "I" in statemachine "StateMachine" not found.
+Failed, transition from state "D" to state "J" in statemachine "StateMachine" not found.
+Failed, transition from state "D" to state "K" in statemachine "StateMachine" not found.
+Failed, transition from state "D" to state "L" in statemachine "StateMachine" not found.
+Failed, transition from state "D" to state "M" in statemachine "StateMachine" not found.
+Failed, transition from state "D" to state "N" in statemachine "StateMachine" not found.
+Failed, transition from state "E" to state "F" in statemachine "StateMachine" not found.
+Failed, transition from state "E" to state "G" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "E" to state "H" in statemachine "StateMachine" are (h2).
+Ok, triggers of transition from state "E" to state "I" in statemachine "StateMachine" are (i).
+Failed, transition from state "E" to state "J" in statemachine "StateMachine" not found.
+Failed, transition from state "E" to state "K" in statemachine "StateMachine" not found.
+Failed, transition from state "E" to state "L" in statemachine "StateMachine" not found.
+Failed, transition from state "E" to state "M" in statemachine "StateMachine" not found.
+Failed, transition from state "E" to state "N" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "F" to state "G" in statemachine "StateMachine" are (q7).
+Failed, transition from state "F" to state "H" in statemachine "StateMachine" not found.
+Failed, transition from state "F" to state "I" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "F" to state "J" in statemachine "StateMachine" are (j).
+Ok, triggers of transition from state "F" to state "K" in statemachine "StateMachine" are (k1).
+Failed, transition from state "F" to state "L" in statemachine "StateMachine" not found.
+Failed, transition from state "F" to state "M" in statemachine "StateMachine" not found.
+Failed, transition from state "F" to state "N" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "G" to state "H" in statemachine "StateMachine" are (q9).
+Failed, transition from state "G" to state "I" in statemachine "StateMachine" not found.
+Failed, transition from state "G" to state "J" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "G" to state "K" in statemachine "StateMachine" are (k2).
+Ok, triggers of transition from state "G" to state "L" in statemachine "StateMachine" are (l1).
+Failed, transition from state "G" to state "M" in statemachine "StateMachine" not found.
+Failed, transition from state "G" to state "N" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "H" to state "I" in statemachine "StateMachine" are (q11).
+Failed, transition from state "H" to state "J" in statemachine "StateMachine" not found.
+Failed, transition from state "H" to state "K" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "H" to state "L" in statemachine "StateMachine" are (l2).
+Ok, triggers of transition from state "H" to state "M" in statemachine "StateMachine" are (m2).
+Failed, transition from state "H" to state "N" in statemachine "StateMachine" not found.
+Failed, transition from state "I" to state "J" in statemachine "StateMachine" not found.
+Failed, transition from state "I" to state "K" in statemachine "StateMachine" not found.
+Failed, transition from state "I" to state "L" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "I" to state "M" in statemachine "StateMachine" are (m1).
+Ok, triggers of transition from state "I" to state "N" in statemachine "StateMachine" are (n).
+Ok, triggers of transition from state "J" to state "K" in statemachine "StateMachine" are (q13).
+Failed, transition from state "J" to state "L" in statemachine "StateMachine" not found.
+Failed, transition from state "J" to state "M" in statemachine "StateMachine" not found.
+Failed, transition from state "J" to state "N" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "K" to state "L" in statemachine "StateMachine" are (q14).
+Failed, transition from state "K" to state "M" in statemachine "StateMachine" not found.
+Failed, transition from state "K" to state "N" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "L" to state "M" in statemachine "StateMachine" are (q16).
+Failed, transition from state "L" to state "N" in statemachine "StateMachine" not found.
+Ok, triggers of transition from state "M" to state "N" in statemachine "StateMachine" are (q18).
+Ok, subsequent state count from state "A" in statemachine "StateMachine" is 15.
+Ok, subsequent state count from state "B" in statemachine "StateMachine" is 15.
+Ok, subsequent state count from state "C" in statemachine "StateMachine" is 13.
+Ok, subsequent state count from state "D" in statemachine "StateMachine" is 13.
+Ok, subsequent state count from state "E" in statemachine "StateMachine" is 13.
+Ok, subsequent state count from state "F" in statemachine "StateMachine" is 10.
+Ok, subsequent state count from state "G" in statemachine "StateMachine" is 10.
+Ok, subsequent state count from state "H" in statemachine "StateMachine" is 10.
+Ok, subsequent state count from state "I" in statemachine "StateMachine" is 10.
+Ok, subsequent state count from state "J" in statemachine "StateMachine" is 5.
+Ok, subsequent state count from state "K" in statemachine "StateMachine" is 5.
+Ok, subsequent state count from state "L" in statemachine "StateMachine" is 5.
+Ok, subsequent state count from state "M" in statemachine "StateMachine" is 5.
+Ok, subsequent state count from state "N" in statemachine "StateMachine" is 1.

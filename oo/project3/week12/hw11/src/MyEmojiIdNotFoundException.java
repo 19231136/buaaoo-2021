@@ -1,0 +1,27 @@
+import com.oocourse.spec3.exceptions.EmojiIdNotFoundException;
+
+import java.util.HashMap;
+import java.util.Set;
+
+public class MyEmojiIdNotFoundException extends EmojiIdNotFoundException {
+    private int id;
+    private static HashMap<Integer,Integer> hashMap = new HashMap<>();
+    private static int count;
+
+    public MyEmojiIdNotFoundException(int id) {
+        this.id = id;
+        count++;
+        Set<Integer> keyset = hashMap.keySet();
+        for (Integer i : keyset) {
+            if (i == id) {
+                hashMap.put(id,hashMap.get(id) + 1);
+                return;
+            }
+        }
+        hashMap.put(id,1);
+    }
+
+    public void print() {
+        System.out.println("einf-" + count + ", " + id + "-" + hashMap.get(id));
+    }
+}

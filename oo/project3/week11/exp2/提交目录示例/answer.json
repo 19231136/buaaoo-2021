@@ -1,0 +1,4 @@
+{
+	"1": "ensures (\\forall int i; 1 <= i && i <= size; elementData[i] == \\old(elementData[i]))",
+	"2": "requires (\forall int i = 1; 1 <= i && i <= size; (j = i / 2 && j != 0) ==> elementData[j].compareTo(elementData[i]) == -1)"
+}

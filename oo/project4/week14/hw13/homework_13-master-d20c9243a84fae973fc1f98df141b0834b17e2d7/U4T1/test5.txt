@@ -1,0 +1,22 @@
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Class1","_type":"UMLClass","_id":"AAAAAAF531TTHSQPJxw="}
+{"_parent":"AAAAAAF531TTHSQPJxw=","visibility":"public","name":"Operation1","_type":"UMLOperation","_id":"AAAAAAF531UMhyQ7i3U="}
+{"_parent":"AAAAAAF531TTHSQPJxw=","visibility":"public","name":"Operation2","_type":"UMLOperation","_id":"AAAAAAF531VIYiRBcqE="}
+{"_parent":"AAAAAAF531VIYiRBcqE=","name":"a","_type":"UMLParameter","_id":"AAAAAAF531W8\/SRIU1I=","type":"int","direction":"in"}
+{"_parent":"AAAAAAF531VIYiRBcqE=","name":"b","_type":"UMLParameter","_id":"AAAAAAF531W8\/SRJnjQ=","type":{"$ref":"AAAAAAF531XaPSRMLNY="},"direction":"in"}
+{"_parent":"AAAAAAF531TTHSQPJxw=","visibility":"public","name":"Operation3","_type":"UMLOperation","_id":"AAAAAAF531ZfjiR20l0="}
+{"_parent":"AAAAAAF531ZfjiR20l0=","name":"c","_type":"UMLParameter","_id":"AAAAAAF531ajVSR97CE=","type":{"$ref":"AAAAAAF531a4oyR\/y6A="},"direction":"in"}
+{"_parent":"AAAAAAF531TTHSQPJxw=","visibility":"public","name":"Operation4","_type":"UMLOperation","_id":"AAAAAAF531dBYCTCJMY="}
+{"_parent":"AAAAAAF531dBYCTCJMY=","name":null,"_type":"UMLParameter","_id":"AAAAAAF531d6OiTJ8jo=","type":{"$ref":"AAAAAAF531XaPSRMLNY="},"direction":"return"}
+{"_parent":"AAAAAAF531TTHSQPJxw=","visibility":"public","name":"Operation5","_type":"UMLOperation","_id":"AAAAAAF531fNSCT0Qco="}
+{"_parent":"AAAAAAF531fNSCT0Qco=","name":null,"_type":"UMLParameter","_id":"AAAAAAF531fmtiT7VCg=","type":{"$ref":"AAAAAAF531eWMyTLTGM="},"direction":"return"}
+{"_parent":"AAAAAAF531TTHSQPJxw=","visibility":"public","name":"Operation6","_type":"UMLOperation","_id":"AAAAAAF531icvyU\/soM="}
+{"_parent":"AAAAAAF531icvyU\/soM=","name":"d","_type":"UMLParameter","_id":"AAAAAAF531jXIyVG\/O0=","type":{"$ref":"AAAAAAF531hehSUWzog="},"direction":"in"}
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Class2","_type":"UMLClass","_id":"AAAAAAF531XaPSRMLNY="}
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Interface1","_type":"UMLInterface","_id":"AAAAAAF531hehSUWzog="}
+END_OF_MODEL
+CLASS_OPERATION_PARAM_TYPE Class1 Operation1
+CLASS_OPERATION_PARAM_TYPE Class1 Operation2
+CLASS_OPERATION_PARAM_TYPE Class1 Operation3
+CLASS_OPERATION_PARAM_TYPE Class1 Operation4
+CLASS_OPERATION_PARAM_TYPE Class1 Operation5
+CLASS_OPERATION_PARAM_TYPE Class1 Operation6

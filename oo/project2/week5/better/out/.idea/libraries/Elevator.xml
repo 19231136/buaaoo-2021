@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Elevator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/production/better/Elevator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

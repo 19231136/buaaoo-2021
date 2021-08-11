@@ -1,0 +1,9 @@
+{"_parent":"AAAAAAFF+h6SjaM2Hec=","name":"StateMachine1","_type":"UMLStateMachine","_id":"AAAAAAF1F5DXJ5+B\/tc="}
+{"_parent":"AAAAAAF1F5DXJ5+B\/tc=","visibility":"public","name":null,"_type":"UMLRegion","_id":"AAAAAAF1F5DXJ5+Clow="}
+{"_parent":"AAAAAAF1F5DXJ5+Clow=","visibility":"public","name":null,"_type":"UMLPseudostate","_id":"AAAAAAF1F5OAw5+IdSU="}
+{"_parent":"AAAAAAF1F5DXJ5+Clow=","visibility":"public","name":null,"_type":"UMLFinalState","_id":"AAAAAAF1F5RXWJ+ZOgg="}
+{"_parent":"AAAAAAF1F5DXJ5+Clow=","visibility":"public","guard":null,"name":null,"_type":"UMLTransition","_id":"AAAAAAF1F5RjYJ+eE3A=","source":"AAAAAAF1F5OAw5+IdSU=","target":"AAAAAAF1F5RXWJ+ZOgg="}
+{"_parent":"AAAAAAF1F5DXJ5+Clow=","visibility":"public","guard":null,"name":null,"_type":"UMLTransition","_id":"AAAAAAF1F5STz5+vwgQ=","source":"AAAAAAF1F5OAw5+IdSU=","target":"AAAAAAF1F5RXWJ+ZOgg="}
+
+END_OF_MODEL
+CLASS_COUNT

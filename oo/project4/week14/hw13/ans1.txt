@@ -1,0 +1,23 @@
+Ok, implement interfaces of class "Light" are ().
+Ok, implement interfaces of class "Vector" are (Add, Compare, Data, Debug, Getter, Hashable, Hashcode, Num, Setter, Sub, ToDebugString, ToString).
+Ok, implement interfaces of class "Rotate" are (Add, Compare, Data, Debug, Getter, Hashable, Hashcode, Num, Setter, Sub, ToDebugString, ToString).
+Ok, implement interfaces of class "Matrix" are (Add, Compare, Data, Getter, Hashable, Hashcode, Num, Setter, Sub, ToString).
+Ok, implement interfaces of class "DebugC" are (Compare, Data, Debug, Debug, Getter, Hashable, Hashcode, Setter, ToDebugString, ToString).
+Ok, associated classes of class "Point" are (Light, Model, Point, Vector, Vertex).
+Ok, associated classes of class "Vector" are (Light, Point, Vertex).
+Failed, duplicated class "Model".
+Ok, associated classes of class "Scene" are (Model, Model).
+Ok, associated classes of class "sELF" are (sELF).
+Yes, information of class "Scene" is hidden.
+Failed, duplicated class "Model".
+No, attribute direction in Light, origin in Light, are not hidden.
+No, attribute x in Vector, y in Vector, z in Vector, are not hidden.
+Failed, duplicated class "Model".
+Ok, attribute "z" in class "Vector"'s visibility is public.
+Ok, method "addModel" in class "Scene" has parameter tables and return value: (String, return: void), (int, return: void).
+Failed, duplicated method "print" in class "Scene".
+Failed, wrong type of parameters or return value in method "junk" of class "Scene".
+Ok, method "ha" in class "DebugC" has parameter tables and return value: (, no return).
+Failed, wrong type of attribute "ha" in class "DebugC".
+Ok, the type of attribute "y" in class "Normal" is float.
+Ok, attribute "y" in class "Point"'s visibility is public.

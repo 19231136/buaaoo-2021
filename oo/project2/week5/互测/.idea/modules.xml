@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/archer/archer.iml" filepath="$PROJECT_DIR$/archer/archer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assassin/assassin.iml" filepath="$PROJECT_DIR$/assassin/assassin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rider/rider.iml" filepath="$PROJECT_DIR$/rider/rider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/互测.iml" filepath="$PROJECT_DIR$/互测.iml" />
+    </modules>
+  </component>
+</project>

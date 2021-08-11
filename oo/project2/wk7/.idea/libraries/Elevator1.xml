@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Elevator1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hw7/out/production/hw7/Elevator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

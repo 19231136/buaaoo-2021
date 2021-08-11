@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ELevator">
+    <output-path>$PROJECT_DIR$/src</output-path>
+    <root id="archive" name="ELevator.jar">
+      <element id="module-output" name="more" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

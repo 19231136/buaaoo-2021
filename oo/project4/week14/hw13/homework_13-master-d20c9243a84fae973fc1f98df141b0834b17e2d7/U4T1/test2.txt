@@ -1,0 +1,9 @@
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Class1","_type":"UMLClass","_id":"AAAAAAF518PczsCdmSg="}
+{"_parent":"AAAAAAF518PczsCdmSg=","visibility":"public","name":"a","_type":"UMLAttribute","_id":"AAAAAAF518R5XsD7ke8=","type":"int"}
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Class2","_type":"UMLClass","_id":"AAAAAAF518QmOcDGfX8="}
+{"_parent":"AAAAAAF518QmOcDGfX8=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAF518S96cEa\/xc=","source":"AAAAAAF518QmOcDGfX8=","target":"AAAAAAF518PczsCdmSg="}
+{"_parent":"AAAAAAF518QmOcDGfX8=","visibility":"private","name":"a","_type":"UMLAttribute","_id":"AAAAAAF518RSLcDvY6g=","type":"int"}
+{"_parent":"AAAAAAF518QmOcDGfX8=","visibility":"private","name":"b","_type":"UMLAttribute","_id":"AAAAAAF518RmfMD1o\/0=","type":"int"}
+{"_parent":"AAAAAAF518QmOcDGfX8=","visibility":"public","name":"c","_type":"UMLAttribute","_id":"AAAAAAF5186r7cEz1k8=","type":{"$ref":"AAAAAAF519y9R8FKyhs="}}
+END_OF_MODEL
+CLASS_ATTR_TYPE Class2 c

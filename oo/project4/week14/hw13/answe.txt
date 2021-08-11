@@ -1,0 +1,131 @@
+Your answer is correct
+Your real output is listed as follows:
+Total class count is 9.
+Total class count is 9.
+Ok, operation count of class "C7" is 9.
+Ok, associated classes of class "C7" are ().
+Ok, operation count of class "C7" is 9.
+Ok, attribute count of class "C7" is 14.
+Ok, attribute count of class "C7" is 14.
+Ok, attribute count of class "C7" is 14.
+Total class count is 9.
+Ok, attribute count of class "C7" is 14.
+Total class count is 9.
+Ok, associated classes of class "C7" are ().
+Failed, duplicated attribute "a" in class "C7".
+Failed, duplicated attribute "b" in class "C7".
+Failed, attribute "a001;" not found in class "C7".
+Failed, attribute "c;" not found in class "C7".
+Failed, attribute "a002;" not found in class "C7".
+Failed, duplicated attribute "a" in class "C6".
+Failed, duplicated attribute "b" in class "C6".
+Failed, attribute "a001;" not found in class "C6".
+Failed, attribute "c;" not found in class "C6".
+Failed, attribute "a002;" not found in class "C6".
+Ok, top base class of class "C7" is C1.
+Ok, implement interfaces of class "C7" are (I1, I2, I3, I4, I5).
+No, attribute a in C4, b in C4, a001 in C6, a002 in C6, c in C6, d in C6, a001 in C7, b in C7, d in C7, are not hidden.
+Ok, top base class of class "C7" is C1.
+Ok, implement interfaces of class "C7" are (I1, I2, I3, I4, I5).
+No, attribute a in C4, b in C4, a001 in C6, a002 in C6, c in C6, d in C6, a001 in C7, b in C7, d in C7, are not hidden.
+Total class count is 9.
+Total class count is 9.
+Ok, operation count of class "C8" is 0.
+Ok, associated classes of class "C8" are ().
+Ok, operation count of class "C8" is 0.
+Ok, attribute count of class "C8" is 0.
+Ok, attribute count of class "C8" is 0.
+Ok, attribute count of class "C8" is 0.
+Ok, attribute count of class "C8" is 0.
+Ok, attribute count of class "C8" is 0.
+Total class count is 9.
+Ok, attribute count of class "C8" is 0.
+Total class count is 9.
+Ok, associated classes of class "C8" are ().
+Ok, top base class of class "C8" is C8.
+Ok, implement interfaces of class "C8" are (I1, I2, I3, I4, I5).
+Yes, information of class "C8" is hidden.
+Ok, top base class of class "C8" is C8.
+Ok, implement interfaces of class "C8" are (I1, I2, I3, I4, I5).
+Yes, information of class "C8" is hidden.
+Total class count is 9.
+Total class count is 9.
+Ok, operation count of class "C3" is 6.
+Ok, associated classes of class "C3" are ().
+Ok, operation count of class "C3" is 6.
+Ok, attribute count of class "C3" is 2.
+Ok, attribute count of class "C3" is 2.
+Ok, attribute count of class "C3" is 2.
+Ok, attribute count of class "C3" is 2.
+Ok, attribute count of class "C3" is 2.
+Total class count is 9.
+Ok, attribute count of class "C3" is 2.
+Total class count is 9.
+Ok, associated classes of class "C3" are ().
+Ok, top base class of class "C3" is C1.
+Ok, implement interfaces of class "C3" are (I1, I2, I3, I4).
+Yes, information of class "C3" is hidden.
+Ok, top base class of class "C3" is C1.
+Ok, implement interfaces of class "C3" are (I1, I2, I3, I4).
+Yes, information of class "C3" is hidden.
+Total class count is 9.
+Total class count is 9.
+Ok, operation count of class "C9" is 5.
+Ok, associated classes of class "C9" are ().
+Ok, operation count of class "C9" is 5.
+Ok, attribute count of class "C9" is 2.
+Ok, attribute count of class "C9" is 2.
+Ok, attribute count of class "C9" is 2.
+Ok, attribute count of class "C9" is 2.
+Ok, attribute count of class "C9" is 2.
+Total class count is 9.
+Ok, attribute count of class "C9" is 2.
+Total class count is 9.
+Ok, associated classes of class "C9" are ().
+Ok, attribute "a" in class "C9"'s visibility is private.
+Ok, attribute "b" in class "C9"'s visibility is private.
+Ok, top base class of class "C9" is C8.
+Ok, implement interfaces of class "C9" are (I1, I2, I3, I4, I5, I6).
+Yes, information of class "C9" is hidden.
+Ok, top base class of class "C9" is C8.
+Ok, implement interfaces of class "C9" are (I1, I2, I3, I4, I5, I6).
+Yes, information of class "C9" is hidden.
+Total class count is 9.
+Total class count is 9.
+Ok, operation count of class "C5" is 3.
+Ok, associated classes of class "C5" are ().
+Ok, operation count of class "C5" is 3.
+Ok, attribute count of class "C5" is 7.
+Ok, attribute count of class "C5" is 7.
+Ok, attribute count of class "C5" is 7.
+Ok, attribute count of class "C5" is 7.
+Ok, attribute count of class "C5" is 7.
+Total class count is 9.
+Ok, attribute count of class "C5" is 7.
+Total class count is 9.
+Ok, associated classes of class "C5" are ().
+Ok, top base class of class "C5" is C2.
+Ok, implement interfaces of class "C5" are (I2).
+No, attribute m1 in C2, m3 in C2, m4 in C2, are not hidden.
+Ok, top base class of class "C5" is C2.
+Ok, implement interfaces of class "C5" are (I2).
+No, attribute m1 in C2, m3 in C2, m4 in C2, are not hidden.
+Ok, operation count of class "C6" is 5.
+Ok, associated classes of class "C6" are ().
+Ok, operation count of class "C6" is 5.
+Ok, attribute count of class "C6" is 10.
+Ok, attribute count of class "C6" is 10.
+Ok, attribute count of class "C6" is 10.
+Ok, attribute count of class "C6" is 10.
+Ok, attribute count of class "C6" is 10.
+Total class count is 9.
+Ok, attribute count of class "C6" is 10.
+Total class count is 9.
+Ok, associated classes of class "C6" are ().
+Failed, attribute "matmul" not found in class "C6".
+Ok, top base class of class "C6" is C1.
+Ok, implement interfaces of class "C6" are (I1, I2, I3, I4, I5).
+No, attribute a in C4, b in C4, a001 in C6, a002 in C6, c in C6, d in C6, are not hidden.
+Ok, top base class of class "C6" is C1.
+Ok, implement interfaces of class "C6" are (I1, I2, I3, I4, I5).
+No, attribute a in C4, b in C4, a001 in C6, a002 in C6, c in C6, d in C6, are not hidden.
